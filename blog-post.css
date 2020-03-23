@@ -1,0 +1,36 @@
+body {
+  background-color: #f7f6f4;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #59092d;
+  text-decoration: underline;
+  margin-bottom: 1px;
+}
+h3 {
+  margin-top: 1px;
+}
+.author-name {
+  color: #362caa;
+}
+
+h4 {
+  color: #59092d;
+}
+
+li {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+li:hover {
+  background-color: #aaa0e5;
+}
+.background-info {
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: italic;
+}
+.body-text-color {
+  color: #370b4f;
+}
